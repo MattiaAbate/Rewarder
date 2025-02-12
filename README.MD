@@ -13,7 +13,7 @@ If you are here, you've already extract Rewarder from the ZIP archive you downlo
 ### 2. Install Python
 Before executing Rewarder in Python you must download Python. So go on the [official Python website](https://www.python.org/) in [Downloads page](https://www.python.org/downloads/) and download Python for your operative system. Follow steps of the setup file to install Python and add Python to PATH, selecting "Add Python to PATH".
 
-##### 3. Install required packages
+### 3. Install required packages
 After downloading Python and Rewarder, run `setup.py` Python file with Python to download Python required packages for Rewarder.
 
 ### 4. Run Rewarder
