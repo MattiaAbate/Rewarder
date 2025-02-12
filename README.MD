@@ -11,7 +11,7 @@ Rewarder is a bot that helps you to get Microsoft Rewards. You do the process of
 If you are here, you've already extract Rewarder from the ZIP archive you downloaded in a new folder. Else, extract the ZIP archive with WinRAR, 7-zip or any other tool in a folder.
 
 ### 2. Install Python
-Before executing Rewarder in Python you must download Python. So go on the [official Python website](https://www.python.org/) in [Download page](https://www.python.org/downloads/) and download Python for your operative system. Follow steps of the setup file to install Python and add Python to PATH, selecting "Add Python to PATH".
+Before executing Rewarder in Python you must download Python. So go on the [official Python website](https://www.python.org/) in [Downloads page](https://www.python.org/downloads/) and download Python for your operative system. Follow steps of the setup file to install Python and add Python to PATH, selecting "Add Python to PATH".
 
 ##### 3. Install required packages
 After downloading Python and Rewarder, run `setup.py` Python file with Python to download Python required packages for Rewarder.
