@@ -31,4 +31,4 @@ Close `Rewarder` window without closing terminal. This is only an example window
 Open your web browser and open a [Bing page](https://www.bing.com/). Press the `Enter` key once and then you press `Ctrl` + `V` (or `Cmd` + `V` in MacOS) to paste a random research. Press `Enter` to search the random sentence and copy the next research! Repeat this process more times to get easier Microsoft Rewards!
 
 ### 4. Get Microsoft Rewards
-With Rewarder you can get easier and faster Microsoft Rewards.
+With Rewarder you can get easier and faster Microsoft Rewards!
