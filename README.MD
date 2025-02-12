@@ -1,5 +1,7 @@
 # Rewarder bot | Python
 
+Rewarder is a bot that helps you to get Microsoft Rewards. You do the process of searching on Bing very faster so you can get points to spend everywhere.
+
 - Version: 1.0
 - Author: [Mattia Abate](https://github.com/MattiaAbate)
 
