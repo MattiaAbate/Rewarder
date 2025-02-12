@@ -5,7 +5,7 @@ Rewarder is a bot that helps you to get Microsoft Rewards. You do the process of
 - Version: 1.0
 - Author: [Mattia Abate](https://github.com/MattiaAbate)
 
-## How to download
+## Bot setup
 
 ### 1. Extract Rewarder ZIP archive
 If you are here, you've already extract Rewarder from the ZIP archive you downloaded in a new folder. Else, extract the ZIP archive with WinRAR, 7-zip or any other tool in a folder.
