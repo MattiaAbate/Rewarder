@@ -6,7 +6,7 @@
 ## How to download
 
 ### 1. Extract Rewarder ZIP archive
-If you are here, you've already extract Rewarder from the ZIP archive you downloaded in a new folder.
+If you are here, you've already extract Rewarder from the ZIP archive you downloaded in a new folder. Else, extract the ZIP archive with WinRAR, 7-zip or any other tool in a folder.
 
 ### 2. Install Python
 Before executing Rewarder in Python you must download Python. So go on the [official Python website](https://www.python.org/) in [Download page](https://www.python.org/downloads/) and download Python for your operative system. Follow steps of the setup file to install Python and add Python to PATH, selecting "Add Python to PATH".
